@@ -1,0 +1,1 @@
+zig build run -- `cat guest-token.txt`
